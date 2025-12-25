@@ -1,0 +1,10 @@
+.\interupt_main.o: interupt_main.c
+.\interupt_main.o: C:\Keil_v5\ARM\Inc\Philips\LPC21xx.h
+.\interupt_main.o: interupt_defines.h
+.\interupt_main.o: LCD.h
+.\interupt_main.o: Lcd_defines.h
+.\interupt_main.o: delay.h
+.\interupt_main.o: rtc.h
+.\interupt_main.o: types.h
+.\interupt_main.o: kpm.h
+.\interupt_main.o: Pinconnect_block.h

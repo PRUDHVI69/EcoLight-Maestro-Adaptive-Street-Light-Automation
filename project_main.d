@@ -1,0 +1,12 @@
+.\project_main.o: project_main.c
+.\project_main.o: C:\Keil_v5\ARM\Inc\Philips\LPC21xx.h
+.\project_main.o: types.h
+.\project_main.o: pins_main.h
+.\project_main.o: defines.h
+.\project_main.o: adc.h
+.\project_main.o: kpm.h
+.\project_main.o: delay.h
+.\project_main.o: Lcd.h
+.\project_main.o: rtc.h
+.\project_main.o: interupt_main.h
+.\project_main.o: Lcd_defines.h
